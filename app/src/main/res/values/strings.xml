@@ -1,5 +1,5 @@
-<?xmlversion="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Family Support</string>
-    <string name="accessibility_description">এই সার্ভিস আপনার পরিবারের সদস্যকে দূর থেকে ফোন সাহায্য করতে দেয়। সার্ভিস চালু থাকলে সবসময় notification দেখাবে এবং যেকোনো সময় বন্ধ করা যাবে।</string>
+    <string name="accessibility_description">এই সার্ভিস আপনার পরিবারের সদস্যকে দূর থেকে ফোন সাহায্য করতে সাহায্য করে...</string>
 </resources>
